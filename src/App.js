@@ -6,6 +6,7 @@ import Header from "./Components/Header/Header"
 import Footer from "./Components/Footer/Footer"
 import Contact from "./Pages/Contact"
 import "./style.css";
+import { GithubStats } from "./Components/GitHubCard/GithubStats";
 function App() {
 
   return (
@@ -14,6 +15,7 @@ function App() {
       <Home />
       <About />
       <Projects />
+      <GithubStats/>
       <Contact />
       <br/>
       <Footer/>
