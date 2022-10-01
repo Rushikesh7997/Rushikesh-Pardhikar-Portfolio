@@ -15,6 +15,17 @@ function Projects() {
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
         <Col md={6} className="project-card" >
             <ProjectCards
+              imgPath="https://github.com/Rushikesh7997/Sreenshots/blob/main/lovoda%20home%20image.PNG?raw=true"
+              title="Lovoda clone"
+              description="This is an E-Commerce website which speciaizes in selling Jwellery and styling products. The website contains products of different types of earrings, necklaces, rings, bracelets etc."
+              tech="Tech-Stacks"
+              techD="Html | Javascript | Css | React | Redux "
+              link="https://lovoda-clone.vercel.app/"
+              a="https://github.com/Rushikesh7997/Clone-of-Lovoda.com"
+            />
+          </Col>
+        <Col md={6} className="project-card" >
+            <ProjectCards
               imgPath="https://github.com/Rushikesh7997/Sreenshots/blob/main/flipkart-1.PNG?raw=true"
               title="Flipkart clone"
               description="This is an E-Commerce website which speciaizes in selling clothes and styling products. The website provides 800 brands and 33,000 products of different types of clothes, watches, sunglasses, shoes etc."
