@@ -13,31 +13,13 @@ import {
 export const GithubStats = () => {
   return (
     <Container>
-            <StatsContCont>
-                <StatsCont>
-                    <StatsContDiv className='dom-attribute-demo'>
-                        <StatsContH1>1200+</StatsContH1>
-                        <StatsContH3>Hours of coding</StatsContH3>
-                    </StatsContDiv>
-                    <StatsContDiv>
-                        <StatsContH1>300+</StatsContH1>
-                        <StatsContH3>Git Commits</StatsContH3>
-                    </StatsContDiv>
-                    <StatsContDiv>
-                        <StatsContH1>10+</StatsContH1>
-                        <StatsContH3>Projects</StatsContH3>
-                    </StatsContDiv>
-                    <LastStat>
-                        <StatsContH1>100+</StatsContH1>
-                        <StatsContH3>Hours of Soft Skill</StatsContH3>
-                    </LastStat>
-                </StatsCont>
-            </StatsContCont>
+            <h1 className="home-about-description">Days I <span className="purple">Worked</span> </h1>
             <img
                 src='https://ghchart.rshah.org/021F34/Rushikesh7997'
                 alt='fdsdf'
                 style={{ width: '80%', display: 'block', margin: 'auto' }}
             />
+            <h1 className="home-about-description">My <span className="purple">Statistics</span> </h1>
             <MainContainer>
             <div className='stats'>
                 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rushikesh7997&theme=dark&hide_border=true&include_all_commits=false&count_private=true" alt="Rushikesh7997" />
