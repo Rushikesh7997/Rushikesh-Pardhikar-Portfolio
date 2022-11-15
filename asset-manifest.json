@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Rushikesh-Pardhikar-Portfolio/static/css/main.464989db.css",
-    "main.js": "/Rushikesh-Pardhikar-Portfolio/static/js/main.e12d393c.js",
+    "main.js": "/Rushikesh-Pardhikar-Portfolio/static/js/main.03c60aa8.js",
     "static/media/my-avatar.jpg": "/Rushikesh-Pardhikar-Portfolio/static/media/my-avatar.d5456791b6fd6280778f.jpg",
     "static/media/pre.svg": "/Rushikesh-Pardhikar-Portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/Rushikesh-Pardhikar-Portfolio/index.html",
     "main.464989db.css.map": "/Rushikesh-Pardhikar-Portfolio/static/css/main.464989db.css.map",
-    "main.e12d393c.js.map": "/Rushikesh-Pardhikar-Portfolio/static/js/main.e12d393c.js.map"
+    "main.03c60aa8.js.map": "/Rushikesh-Pardhikar-Portfolio/static/js/main.03c60aa8.js.map"
   },
   "entrypoints": [
     "static/css/main.464989db.css",
-    "static/js/main.e12d393c.js"
+    "static/js/main.03c60aa8.js"
   ]
 }
