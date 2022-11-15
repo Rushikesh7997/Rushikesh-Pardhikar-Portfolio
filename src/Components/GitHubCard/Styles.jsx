@@ -59,3 +59,49 @@ export const LastStat = styled.div`
     text-align: center;
     border-right: none;
 `;
+
+
+export const MainContainer = styled.div`
+.stats{
+        width:80%;
+        margin:auto;
+        display:flex;
+        justify-content:center;
+        border-radius:50px;
+        margin-bottom:50px;
+    }
+    
+    .stats>img{
+        padding:20px 10px 20px 10px;
+    }
+    
+    @media only screen and (min-width: 769px) and (max-width:1110px){
+        .stats{
+            flex-direction:column; 
+        }
+
+    }
+    
+    @media only screen and (min-width: 481px) and (max-width:768px){
+        
+        .stats{
+            flex-direction:column; 
+        }
+    }
+    
+
+    @media only screen and (min-width:320px) and (max-width:480px){
+        .stats{
+            width:90%;
+            flex-direction:column; 
+        }
+    }
+    
+    @media only screen and (max-width: 319px){
+        .stats{
+            width:90%;
+            flex-direction:column; 
+        }
+    }
+    
+`

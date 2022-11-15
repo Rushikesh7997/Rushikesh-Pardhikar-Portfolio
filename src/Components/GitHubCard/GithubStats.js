@@ -7,6 +7,7 @@ import {
     StatsContH3,
     LastStat,
     Container,
+    MainContainer,
 } from './Styles';
 
 export const GithubStats = () => {
@@ -33,10 +34,16 @@ export const GithubStats = () => {
                 </StatsCont>
             </StatsContCont>
             <img
-                src='https://ghchart.rshah.org/021F34/Mukesh16407'
+                src='https://ghchart.rshah.org/021F34/Rushikesh7997'
                 alt='fdsdf'
                 style={{ width: '80%', display: 'block', margin: 'auto' }}
             />
+            <MainContainer>
+            <div className='stats'>
+                <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rushikesh7997&theme=dark&hide_border=true&include_all_commits=false&count_private=true" alt="Rushikesh7997" />
+                <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rushikesh7997&theme=dark&hide_border=true" alt="Rushikesh7997"  />
+            </div>
+            </MainContainer>
         </Container>
   )
 }
