@@ -15,13 +15,13 @@ function Projects() {
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
         <Col md={6} className="project-card" >
             <ProjectCards
-              imgPath="https://github.com/Rushikesh7997/Sreenshots/blob/main/lovoda%20home%20image.PNG?raw=true"
-              title="Lovoda clone"
-              description="This is an E-Commerce website which speciaizes in selling Jwellery and styling products. The website contains products of different types of earrings, necklaces, rings, bracelets etc."
+              imgPath="https://github.com/Rushikesh7997/Sreenshots/blob/main/Indedgogo%20Homepage.png?raw=true"
+              title="Indiegogo clone"
+              description="Millions of people around the world visit Indiegogo to find clever and unconventional things that solve everyday problems large and small. By giving entrepreneurs everywhere a platform to launch new and groundbreaking products. Indiegogo fullfill many wishes."
               tech="Tech-Stacks"
               techD="Html | Javascript | Css | React | Redux "
-              link="https://lovoda-clone.vercel.app/"
-              a="https://github.com/Rushikesh7997/Clone-of-Lovoda.com"
+              link="https://indegogoclone.vercel.app/"
+              a="https://github.com/Rushikesh7997/Clone-Indiegogo.com"
             />
           </Col>
         <Col md={6} className="project-card" >
