@@ -224,7 +224,7 @@ html {
 .home-about-body {
   padding-top: 50px;
   font-size: 1.2em !important;
-  text-align: left;
+  text-align: justify;
 }
 
 .home-about-social {
@@ -349,7 +349,7 @@ html {
 
 .about-section {
   position: relative !important;
-  padding-top: 80px !important;
+  padding-top: 50px !important;
   padding-bottom: 30px !important;
   background-image: var(--section-background-color) !important;
   color: white !important;

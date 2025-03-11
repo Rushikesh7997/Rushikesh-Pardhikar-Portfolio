@@ -11,8 +11,8 @@ function Home() {
       <Container fluid className="home-section" id="home">
         <Container className="home-content">
           <Row>
-            <Col md={5} className="home-profile" style={{ paddingBottom: 20 }}>
-              <img src={myImg} alt="home pic" className="img-fluid" />
+            <Col md={5} className="home-profile" style={{ paddingBottom: 20,paddingRight:30}}>
+              <img src={myImg} alt="home pic" className="img-fluid" style={{borderRadius:"30%"}} />
             </Col>
             <Col md={7} className="home-header">
               <h1  className="heading">
