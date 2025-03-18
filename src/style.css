@@ -114,8 +114,14 @@ html {
   height: 100%;
 }
 
-.home-header {
+/* .home-header {
   padding-top: 80px !important;
+} */
+
+.home-header {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
 }
 
 .home-section {
