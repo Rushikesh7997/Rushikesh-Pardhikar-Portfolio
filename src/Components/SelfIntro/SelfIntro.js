@@ -11,7 +11,7 @@ function SelfIntro() {
               Let Me <span className="purple"> Introduce </span> Myself
             </h1>
             <p className="home-about-body">
-              I am a dedicated <span style={{color: "#0A81AB" , fontStyle:"italic"}}>MERN</span> (MongoDB, Express.js, React.js, Node.js) Full Stack Developer with over 2+ years of experience in building responsive and scalable web applications. I specialize in front-end development using React.js, creating dynamic and reusable components with state management through Redux and Context API.
+              I am a dedicated <span style={{color: "#0A81AB" , fontStyle:"italic"}}>MERN</span> (MongoDB, Express.js, React.js, Node.js) Full Stack Developer with over 3+ years of experience in building responsive and scalable web applications. I specialize in front-end development using React.js, creating dynamic and reusable components with state management through Redux and Context API.
               <br/>
               <br/>
               On the back end, I develop secure and efficient  <span style={{color: "#0A81AB" , fontStyle:"italic"}}>RESTful APIs</span> with Node.js and Express.js, handling authentication, authorization, and real-time communication using WebSockets. My expertise in MongoDB includes designing complex data structures and optimizing performance with Mongoose. 
