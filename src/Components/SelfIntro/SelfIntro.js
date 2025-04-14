@@ -42,13 +42,22 @@ function SelfIntro() {
             </p>
 
             <h3 style={{textAlign:"left",fontSize:22,color: "#0A81AB" }}>Pratiksham Softwares Pvt. Ltd</h3>
-            <p style={{textAlign:"left"}}>Web Developer(Intern) | 12/2022 - 06/2023</p>
+            <p style={{textAlign:"left"}}>Frontend Developer | 06/2022 - 06/2023</p>
+            <p className="home-about-body" style={{paddingTop:0}}>
+              <ul>
+                <li>Developed and maintained dynamic React.js components for production applications.</li>
+                <li>Optimized performance and user experience across different devices and browsers.</li>
+                <li>Worked closely with backend developers and designers to deliver pixel-perfect UIs.</li>
+                <li>Contributed to the successful launch of a new feature that increased user retention by 15%</li>
+              </ul>
+            </p>
+            <p style={{textAlign:"left"}}>Web Developer (Intern)</p>
             <p className="home-about-body" style={{paddingTop:0}}>
               <ul>
                 <li>Assisted in developing and maintaining client-side applications using React.</li>
                 <li>Collaborate with UX/UI designers to implement user-friendly interfaces.</li>
                 <li>Utilized version control systems (Git) for collaborative development.</li>
-                <li>Contributed to the successful launch of a new feature that increased user retention by 15%.</li>
+                <li>Contributed to code reviews and team discussions, ensuring high-quality code standards.</li>
               </ul>
             </p>
           </Col>
