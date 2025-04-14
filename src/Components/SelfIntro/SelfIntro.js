@@ -42,7 +42,7 @@ function SelfIntro() {
             </p>
 
             <h3 style={{textAlign:"left",fontSize:22,color: "#0A81AB" }}>Pratiksham Softwares Pvt. Ltd</h3>
-            <p style={{textAlign:"left"}}>Frontend Developer | 06/2022 - 06/2023</p>
+            <p style={{textAlign:"left"}}>Frontend Developer | 06/2022 - 07/2023</p>
             <p className="home-about-body" style={{paddingTop:0}}>
               <ul>
                 <li>Developed and maintained dynamic React.js components for production applications.</li>
