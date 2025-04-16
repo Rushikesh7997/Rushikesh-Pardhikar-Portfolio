@@ -17,7 +17,7 @@ function Projects() {
         <Col md={6} className="project-card">
             <ProjectCards
               imgPath="https://github.com/Rushikesh7997/Sreenshots/blob/main/bitcash.PNG?raw=true"
-              title="Bitcash Admin"
+              title="BitCash Admin"
               description="I developed a BitCash Admin Panel using React.js, Redux, and REST APIs to efficiently track and manage Bitcoin transactions for users. The panel provides real-time data on user balances, transaction history, and market trends through secure API integration. Redux handles state management, ensuring smooth data flow and quick updates. The user-friendly interface, built with React.js, allows admins to monitor transactions, flag suspicious activity, and generate detailed reports. "
               techD="React | Redux | Html | Javascript | Css "
               link="https://bitcash.co.in/"
