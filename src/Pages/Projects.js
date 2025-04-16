@@ -13,17 +13,6 @@ function Projects() {
           Here are a few projects I've worked on recently.
         </p>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
-        <Col md={6} className="project-card" >
-            <ProjectCards
-              imgPath="https://github.com/Rushikesh7997/Sreenshots/blob/main/blog%20app.PNG?raw=true"
-              title="Blog App (MERN)"
-              description="I built a full-stack blog app using React.js, CSS, Node.js, and Express.js with a clean and responsive design. The front end, developed with React.js and styled using CSS, ensures a smooth user experience across devices. The back end, powered by Node.js and Express.js, handles user authentication, post creation, editing, and deletion with secure JWT-based authentication. I used MongoDB with Mongoose for efficient data management."
-              tech="Tech-Stacks"
-              techD="Html | Javascript | Css | React | Node | Express | JWT | MongoDB "
-              link="https://blog-web-app-frontend.onrender.com/"
-              a="https://github.com/Rushikesh7997/blog-web-app"
-            />
-        </Col>
 
         <Col md={6} className="project-card">
             <ProjectCards
@@ -33,6 +22,18 @@ function Projects() {
               techD="React | Redux | Html | Javascript | Css "
               link="https://bitcash.co.in/"
               a="#"
+            />
+        </Col>
+
+        <Col md={6} className="project-card" >
+            <ProjectCards
+              imgPath="https://github.com/Rushikesh7997/Sreenshots/blob/main/blog%20app.PNG?raw=true"
+              title="Blog App (MERN)"
+              description="I built a full-stack blog app using React.js, CSS, Node.js, and Express.js with a clean and responsive design. The front end, developed with React.js and styled using CSS, ensures a smooth user experience across devices. The back end, powered by Node.js and Express.js, handles user authentication, post creation, editing, and deletion with secure JWT-based authentication. I used MongoDB with Mongoose for efficient data management."
+              tech="Tech-Stacks"
+              techD="Html | Javascript | Css | React | Node | Express | JWT | MongoDB "
+              link="https://blog-web-app-frontend.onrender.com/"
+              a="https://github.com/Rushikesh7997/blog-web-app"
             />
         </Col>
 
