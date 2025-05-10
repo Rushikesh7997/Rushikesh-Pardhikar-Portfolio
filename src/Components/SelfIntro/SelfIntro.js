@@ -32,12 +32,14 @@ function SelfIntro() {
             <p style={{textAlign:"left"}}>Frontend Developer | 07/2023 - Present</p>
             <p className="home-about-body" style={{paddingTop:0}}>
               <ul>
-                <li>Develop and maintain responsive web applications using React and Typescript.</li>
-                <li>Worked closely with backend developers to integrate RESTful APIs.</li>
-                <li>Optimize application performance by implementing best practices and code optimization techniques.</li>
-                <li>Conduct code reviews and provide constructive feedback to junior developers.</li>
-                <li>Participate in Agile ceremonies, including sprint planning, stand-ups, and retrospectives.</li>
-                <li>Led the frontend development of a major project, resulting in a 30% increase in user engagement.</li>
+                <li>Led a smooth MVP release for Bitcash by coordinating efforts among a team of 5, including UI/UX
+                    designers and backend developers to integrate RESTful APIs, for the Bitcoin tracking feature.</li>
+                <li>Created an admin dashboard for real-time analytics, improving decision-making and reducing manual
+                    reporting by 50%.</li>
+                <li>Migrated the entire website to the MERN stack, reducing load time by 40%.</li>
+                <li>Revamped a legacy client screen using React.js and Redux, increasing customer conversion rates by 10%.</li>
+                <li>Formulated and executed front-end development strategies, resulting in a 15% increase in website
+                    performance by implementing optimization techniques such as code minification.</li>
               </ul>
             </p>
 
@@ -45,10 +47,11 @@ function SelfIntro() {
             <p style={{textAlign:"left"}}>Frontend Developer | 06/2022 - 07/2023</p>
             <p className="home-about-body" style={{paddingTop:0}}>
               <ul>
-                <li>Developed and maintained dynamic React.js components for production applications.</li>
-                <li>Optimized performance and user experience across different devices and browsers.</li>
+                <li>Implemented and maintained front-end web applications, resulting in a 20% reduction in page load speeds
+ and increased project completion rates by utilizing modern web technologies such as React JS.</li>
                 <li>Worked closely with backend developers and designers to deliver pixel-perfect UIs.</li>
-                <li>Contributed to the successful launch of a new feature that increased user retention by 15%</li>
+                <li>Contributed to the successful launch of a new feature that increased user retention by 15%.</li>
+                <li>Fixed major and minor bus, reducing bug occurrences by 75%.</li>
               </ul>
             </p>
             <p style={{textAlign:"left"}}>Web Developer (Intern)</p>
